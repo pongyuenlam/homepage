@@ -6,14 +6,9 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md
 
 ### Hi there 👋, my name is Howard Lam
 #### subtitle - I like to learn and teach.
-![My xiaohongshu](https://www.xiaohongshu.com/user/profile/5c43e9f2000000000601fca0?xhsshare=CopyLink&appuid=5c43e9f2000000000601fca0&apptime=1709638078)
 
 About me
 
 Skills: Python / HTML
-
-- 🔭 I’m currently working on this page. 
-
-
 
 
