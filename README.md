@@ -1,4 +1,4 @@
-### Welcome! I am Howard Pong Yuen LAM
+### Welcome! I am Howard from Hong Kong
 #### I love to share ideas with short videos, and use examples to explain concepts step by step.
 All videos are available in xiaohongshu 小红书 now. 
 [Howard香港](https://www.xiaohongshu.com/user/profile/5c43e9f2000000000601fca0?xhsshare=CopyLink&appuid=5c43e9f2000000000601fca0&apptime=1709642915)
