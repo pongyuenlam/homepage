@@ -20,4 +20,3 @@ The book, Marketing Research with R and Python, is available at Amazon now with 
 <br>
 [Linkedin](https://www.linkedin.com/in/lampongyuen/)
 <br>
-This site was built using [GitHub Pages](https://pages.github.com/).
